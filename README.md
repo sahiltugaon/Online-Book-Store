@@ -1,5 +1,5 @@
 
-- A Java Web Developement Project
+- A Java Web Development Project
 
 ### About
 
